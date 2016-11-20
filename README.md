@@ -1,6 +1,6 @@
-# project_proposal
-Final Project Proposal
-Proposal project for Gimbal Camera Stabilizer
+# final project proposal
+Gimbal Camera Stabilizer
+
 Parts:
 Servo Motor * 2
 Accelerometer *2
